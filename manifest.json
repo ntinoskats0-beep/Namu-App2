@@ -1,0 +1,19 @@
+{
+  "name": "Astera — Business Assistant",
+  "short_name": "Astera",
+  "description": "Astera — Business Assistant: Διαχείριση Ζ, αποθέματος/ψωμιών, προσωπικού, ταμείου και κερδοφορίας",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090e0c",
+  "theme_color": "#090e0c",
+  "icons": [
+    {
+      "src": "assets/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
